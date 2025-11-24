@@ -1,0 +1,15 @@
+# Fichiers sensibles - NE JAMAIS COMMITTER !
+.env
+
+# Logs et debug
+debug.log
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
