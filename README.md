@@ -23,20 +23,14 @@ Démo en direct (quand tu l’héberges) → ouvre simplement `index.html`
 ## Installation
 
 1. **Télécharge ou clone ce projet**
-   git clone https://github.com/tonpseudo/assistant-caisse-groq.git
-   cd assistant-caisse-groq
+  - git clone https://github.com/tonpseudo/assistant-caisse-groq.git
+  - cd assistant-caisse-groq
 
 2. **Copie le fichier d’environnement**
-cp .env.example .env
+- cp .env.example .env
 3. **Édite le fichier .env avec tes infosproperties**
-DB_HOST=localhost
-DB_NAME=projetmed          ← ta base de données (doit exister)
-DB_USER=root
-DB_PASS=
-
-GROQ_API_KEY=gsk_ton_vraie_cle_ici     ← obligatoire ! gratuit sur https://console.groq.com
-GROQ_MODEL=llama-3.3-70b-versatile     ← recommandé (ou llama-3.2-90b-text-preview)
+- GROQ_API_KEY=gsk_ton_vraie_cle_ici     ← obligatoire ! gratuit sur https://console.groq.com
 
 4. **Lance avec Laragon / XAMPP / EasyPHP**
-Place le dossier dans www/ ou htdocs/ → ouvre http://localhost/assistant-caisse-groq
+- Place le dossier dans www/ ou htdocs/ → ouvre http://localhost/assistant-caisse-groq
 
