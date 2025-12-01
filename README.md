@@ -3,7 +3,7 @@
 Un **chatbot ultra-rapide et intelligent** qui répond en langage naturel à toutes tes questions sur ta caisse :  
 Produits, ventes du jour, meilleurs clients, stock, factures… tout !
 
-Propulsé par **Groq** (Llama 3.3 70B ou 90B) → réponses en moins d’1 seconde !
+Propulsé par **Groq** (openai/gpt-oss-120b) → réponses en moins d’1 seconde !
 
 Aucun framework, 100 % PHP + HTML + CSS + JS → fonctionne sur **Laragon, XAMPP, ou n’importe quel hébergement PHP/MySQL**.
 
